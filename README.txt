@@ -1,0 +1,1 @@
+Open index.html online, then in iPhone Safari: Deel -> Zet op beginscherm. Progress is saved locally.
